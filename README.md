@@ -1,3 +1,15 @@
 # ¿Quién soy?
 
-Me llamo Iker, soy un informático freelance especializado en ciberseguridad actualmente. Mi pasión por el campo de la informática viene desde que empecé a estudiar el ciclo formativo de grado medio de SMR. Ahí es cuando conocí los sistemas y las redes en pequeña escala. También descubrí la programación, que, a día de hoy, utilizo para automatizar muchas tareas repetitivas a pequeña escala. Tras adquirir la experiencia del grado medio, decidí entrar en el grado superior de ASIR, donde estoy actualmente, y en este grado es donde he descubierto más a fondo la ciberseguridad. Debido a esto, encontré un campo dentro de la ciberseguridad que me interesó: el hacking ético. Gracias a descubrir el hacking ético, empecé a practicar con laboratorios vulnerables, identificando y explotando vulnerabilidades en plataformas como HackTheBox, DockerLabs, TheHackersLabs, etc.
+Me llamo Iker, soy informático freelance especializado en ciberseguridad.
+
+Mi pasión por la informática comenzó durante el ciclo formativo de grado medio de SMR (Sistemas Microinformáticos y Redes), donde di mis primeros pasos en el mundo de los sistemas y las redes a pequeña escala. Fue también en esta etapa donde descubrí la programación, una herramienta que hoy en día utilizo habitualmente para automatizar tareas repetitivas y optimizar procesos.
+
+Tras finalizar el grado medio, continué mi formación con el ciclo superior de ASIR (Administración de Sistemas Informáticos en Red), el cual ya he completado, consolidando una base sólida en administración de sistemas, redes y entornos profesionales. Durante esta etapa fue donde profundicé de forma más seria en el ámbito de la ciberseguridad.
+
+Dentro de este campo descubrí un área que captó especialmente mi atención: el hacking ético. A partir de ahí, comencé a formarme de manera práctica en entornos controlados, participando en laboratorios y plataformas vulnerables donde he ido desarrollando habilidades en la identificación y explotación de vulnerabilidades.
+
+He practicado y sigo formándome en plataformas como Hack The Box, DockerLabs, TheHackersLabs, entre otras, lo que me ha permitido adquirir experiencia práctica en escenarios similares a los profesionales.
+
+# 📌Contacto
+📧 Email: [ikerbudiafernandez@gmail.com](mailto:ikerbudiafernandez@gmail.com)
+📍Gitbook: [https://ikerb.gitbook.io/portfolio](https://ikerb.gitbook.io/portfolio)
